@@ -74,4 +74,9 @@
 * table 2) Model 수정에 따른 성능 변화(data > int화, 180x180, Gray scale X)
   + Color image 사용(Gray scale X)
   + Drop out, conv layer 학습하는 층수를 변경
-  + 최대 0.89까지   
+  + 최대 0.89까지 상승
+<br><br>
+### Reference
+* [https://selenium-python.readthedocs.io/index.html](https://selenium-python.readthedocs.io/index.html)
+* [https://keras.io/api/applications/resnet/](https://keras.io/api/applications/resnet/)
+* [https://docs.python.org/ko/3/library/pickle.html](https://docs.python.org/ko/3/library/pickle.html)
